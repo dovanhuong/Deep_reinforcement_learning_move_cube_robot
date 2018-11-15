@@ -1,4 +1,4 @@
-# Deep_reinforcement_learning_move_cube_robot
+# Deep_reinforcement_learning_move_cube_robot_description
 This package just for description of moving_cube robot. <br>
 In order to run this robot model 3D with Gazebo environment, following instruction: <br>
   $ roscore <br>
